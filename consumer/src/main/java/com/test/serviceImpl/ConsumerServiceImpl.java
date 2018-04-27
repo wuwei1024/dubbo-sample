@@ -6,8 +6,8 @@ import com.test.service.ProviderService;
 import org.springframework.stereotype.Service;
 
 /**
- * @author: wuwei
- * @date: 2018/4/27 10:30
+ * @author wuwei
+ * @date 2018/4/27 10:30
  */
 @Service
 public class ConsumerServiceImpl implements ConsumerService {

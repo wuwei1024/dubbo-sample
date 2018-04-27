@@ -4,8 +4,8 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 /**
- * @author: wuwei
- * @date: 2018/4/27 9:41
+ * @author wuwei
+ * @date 2018/4/27 9:41
  */
 @SpringBootApplication
 public class ConsumerApplication {

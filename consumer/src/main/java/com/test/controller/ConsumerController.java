@@ -6,8 +6,8 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 /**
- * @author: wuwei
- * @date: 2018/4/27 11:22
+ * @author wuwei
+ * @date 2018/4/27 11:22
  */
 @RestController
 @RequestMapping("/consumer")
